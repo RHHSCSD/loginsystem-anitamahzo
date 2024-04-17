@@ -6,7 +6,7 @@ package loginsystem;
 
 /**
  *
- * @author michael.roy-diclemen
+ * @author Anita Mahzouni
  */
 public class LoginSystem {
 
